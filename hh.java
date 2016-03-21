@@ -10,6 +10,7 @@ public class hh {
 		int y;
 		y = 15;
 		double z;
+                double z1;
 		z=x+=y;
 		System.out.println(z);
 		}	
